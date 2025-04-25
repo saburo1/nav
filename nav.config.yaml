@@ -22,7 +22,7 @@ branch: main
 imageRepoUrl: ''
 
 # 只有GitHub pages用户需要设置为true， 其他建议设置为 false
-hashMode: true
+hashMode: false
 
 # 一旦填写认为你是自有部署，Fork 不要填写
 address: ''
@@ -34,7 +34,7 @@ password: admin
 port: 7777
 
 # 收录通知邮箱
-email: ''
+email: 'sittositto@protonmail.com'
 
 # 自有部署邮件通知系统
 mailConfig:
